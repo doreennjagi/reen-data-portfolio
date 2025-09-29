@@ -15,7 +15,7 @@ My projects highlight curiosity, problem-solving, and a results-oriented approac
   - Created a clean table (`layoffs_clean`)  
   - Developed views for trend analysis (monthly layoffs, top companies, regional breakdowns)  
 - **Impact**: Improved dataset quality for reliable reporting and decision-making.  
-- **Repo**: [View Project](link_to_repo)  
+- **Repo**: [SQL Layoffs Project](https://github.com/yourusername/SQL_Layoffs_Project)  
 
 ---
 
@@ -26,7 +26,7 @@ My projects highlight curiosity, problem-solving, and a results-oriented approac
   - Automated data cleaning with Power Query  
   - KPI tracking with dynamic charts  
 - **Impact**: Helped stakeholders track performance and spot growth opportunities.  
-- **Repo/Download**: [View Project](link_to_repo)  
+- **Repo**: [Excel Dashboard Project](https://github.com/yourusername/Excel_Dashboard_Project)  
 
 ---
 
@@ -37,9 +37,9 @@ My projects highlight curiosity, problem-solving, and a results-oriented approac
   - Regional and industry-based visualizations  
   - Time-series trend analysis  
 - **Impact**: Offered decision-makers clear visibility into workforce reduction patterns.  
-- **Live Dashboard**: [View on Tableau Public](link_to_tableau)  
+- **Repo**: [Tableau Visualization](https://github.com/yourusername/Tableau_Global_Layoffs)  
+- **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/your_dashboard_link)  
 
----
 
 ## 🔹 Services I Provide  
 I’m available for **freelance and contract work**. I specialize in:  
