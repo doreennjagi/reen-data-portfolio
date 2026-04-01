@@ -1,57 +1,79 @@
-# 📊 Reen's Data Analytics Portfolio  
+# 📊 Doreen Njagi — Data Analytics Portfolio
 
-I am a **Data Analyst** with a strong background in **Mathematics and Computer Science**.  
-Skilled in **SQL, Excel, Tableau, and Python**, I specialize in cleaning, analyzing, and visualizing data to uncover insights that drive smarter business decisions.  
-My projects highlight curiosity, problem-solving, and a results-oriented approach.  
+I'm a **Data Analyst** with a background in **Mathematics and Computer Science**, based in Nairobi, Kenya 🇰🇪.  
+I specialize in SQL, Python, Excel, Power BI, and Tableau — turning raw data into clear, actionable insights.
 
----
-
-## 🔹 Featured Projects  
-
-### 1. SQL Data Cleaning & Analysis – Layoffs Dataset  
-- **Tools**: MySQL | PostgreSQL  
-- **Overview**: Cleaned and standardized a large layoffs dataset, ensuring data accuracy and consistency.  
-- **Key Deliverables**:  
-  - Created a clean table (`layoffs_clean`)  
-  - Developed views for trend analysis (monthly layoffs, top companies, regional breakdowns)  
-- **Impact**: Improved dataset quality for reliable reporting and decision-making.  
-- **Repo**: [SQL Layoffs Project](https://github.com/yourusername/SQL_Layoffs_Project)  
+🌐 **Live Portfolio:** [doreennjagi.github.io/reen-data-portfolio](https://doreennjagi.github.io/reen-data-portfolio)
 
 ---
 
-### 2. Excel Dashboard – Financial Performance Tracking  
-- **Tools**: Excel (Pivot Tables, Power Query, Charts)  
-- **Overview**: Built an interactive dashboard to monitor KPIs, revenue streams, and growth trends.  
-- **Key Deliverables**:  
-  - Automated data cleaning with Power Query  
-  - KPI tracking with dynamic charts  
-- **Impact**: Helped stakeholders track performance and spot growth opportunities.  
-- **Repo**: [Excel Dashboard Project](https://github.com/yourusername/Excel_Dashboard_Project)  
+## 🔹 Projects
+
+### 1. 🤖 Telecom Customer Churn Prediction
+**Tools:** Python · Scikit-learn · Pandas · Matplotlib  
+Predicted customer churn with 92% AUC accuracy and identified $2.1M in at-risk revenue. Built 5 retention strategies with 5–10x ROI projections.  
+→ [View Repo](https://github.com/doreennjagi/telecom-customer-churn-prediction)
 
 ---
 
-### 3. Tableau Visualization – Global Layoffs Trends  
-- **Tools**: Tableau Public  
-- **Overview**: Interactive dashboard showing layoffs by country, company, and industry.  
-- **Key Deliverables**:  
-  - Regional and industry-based visualizations  
-  - Time-series trend analysis  
-- **Impact**: Offered decision-makers clear visibility into workforce reduction patterns.  
-- **Repo**: [Tableau Visualization](https://github.com/yourusername/Tableau_Global_Layoffs)  
-- **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/your_dashboard_link)  
-
-
-## 🔹 Services I Provide  
-I’m available for **freelance and contract work**. I specialize in:  
-- 📈 Data Analysis & Business Intelligence (SQL, Excel, Tableau, Power BI)  
-- 📊 Dashboard Design & Reporting (interactive reports for executives and teams)  
-- 🛠 Data Cleaning & Preparation (turning raw data into reliable insights)  
+### 2. 🧹 Tech Layoffs SQL Cleaning — MySQL
+**Tools:** MySQL Workbench  
+Cleaned and standardized a large layoffs dataset. Created views for monthly trends, top companies, and regional breakdowns.  
+→ [View Repo](https://github.com/doreennjagi/layoffs-sql-cleaning-project)
 
 ---
 
-## 🔹 Let’s Connect  
-- 💼 [LinkedIn](your_linkedin)  
-- 📧 [Email Me](mailto:your_email)  
-- 🗂 [Portfolio Repositories](link_to_github_repos)  
+### 3. 🧹 Tech Layoffs SQL Cleaning — PostgreSQL
+**Tools:** PostgreSQL  
+Same dataset explored using PostgreSQL — demonstrates cross-platform SQL proficiency.  
+→ [View Repo](https://github.com/doreennjagi/Tech-Layoffs-SQL-Cleaning-Project-)
 
-✨ Whether you’re a recruiter looking for a reliable data analyst, or a client needing data-driven solutions, this portfolio showcases how I can deliver value to your team or project.  
+---
+
+### 4. 👥 Customer Churn Segmentation Analysis
+**Tools:** Python · Pandas  
+→ [View Repo](https://github.com/doreennjagi/customer_churn_segmentation_analysis)
+
+---
+
+### 5. 🚦 NYC Traffic Safety Risk Analysis
+**Tools:** Python · Data Visualization  
+→ [View Repo](https://github.com/doreennjagi/nyc-traffic-safety-risk-analysis)
+
+---
+
+### 6. 🌍 Refugee Population Insights
+**Tools:** Python · Tableau  
+→ [View Repo](https://github.com/doreennjagi/refugee-population-insights)
+
+---
+
+### 7. 👔 HR Analytics Dashboard
+**Tools:** Power BI / Excel  
+→ [View Repo](https://github.com/doreennjagi/hr-analytics-dashboard)
+
+---
+
+### 8. 🌦️ Multi-City Weather Analysis
+**Tools:** Python · APIs  
+→ [View Repo](https://github.com/doreennjagi/multi-city-weather-analysis)
+
+---
+
+### 9. 🎬 Movies Metadata Analysis
+**Tools:** Python · Pandas  
+→ [View Repo](https://github.com/doreennjagi/movies-metadata-analysis)
+
+---
+
+### 10. 🚲 Bike Sales Excel Project
+**Tools:** Excel · Pivot Tables · Charts  
+→ [View Repo](https://github.com/doreennjagi/bike-sales-excel-project)
+
+---
+
+## 🔹 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/doreen-njagi-196350389/)
+- 📧 doreennjagi127@gmail.com
+- 🐙 [GitHub](https://github.com/doreennjagi)
